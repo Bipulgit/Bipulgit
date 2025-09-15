@@ -2,6 +2,24 @@
   <img src="https://media.giphy.com/media/zhYSVCYh0K5Yk/giphy.gif" alt="Animated Tech Banner" width="100%"/>
 </p>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/bipul-bce568/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://bipul-kumar-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="mailto:bipulkmr51@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</div>
+
+<div align="center">
+ <img src="https://komarev.com/ghpvc/?username=bipulgit&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" />
+</div>
+
+---
+
 <table>
   <tr>
     <td valign="top" width="65%">
@@ -39,12 +57,13 @@
     <h3>Tools & DevOps</h3>
     <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,docker,vercel" alt="Tools & DevOps Skills"/>
     <h3>AI & Automation</h3>
-    <img src="https://skillicons.dev/icons?i=ai,ps" alt="AI & Automation Skills"/> </div>
+    <img src="https://skillicons.dev/icons?i=ai,ps" alt="AI & Automation Skills"/>
+  </div>
 </details>
 
 <div align="center">
   <h2>🐍 My Contribution Graph 🐍</h2>
-  <img src="https://github.com/bipulgit/bipulgit/blob/output/github-contribution-grid-snake.svg" alt="Snake animation of GitHub contribution graph"/>
+  <img src="https://platane.github.io/snk/svg-only/github-contributions-grid-snake.svg?user=bipulgit&theme=dark&colors=000000,00BFFF,40C4FF,80D8FF,82B1FF" alt="Snake animation of GitHub contribution graph"/>
 </div>
 
 <table>
