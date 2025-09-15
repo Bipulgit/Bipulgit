@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI0lDi3AroXk/giphy.gif" alt="Abstract Tech Banner" width="100%"/>
-</p>
+
 
 <table width="100%">
   <tr>
