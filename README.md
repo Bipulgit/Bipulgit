@@ -1,3 +1,21 @@
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+  <h1>Hi 👋 I'm Bipul Kumar</h1>
+  <h3>Frontend Developer & UI/UX Designer | 1.5+ Years Experience</h3>
+  <p>Transforming ideas into beautiful, responsive web experiences with modern technologies</p>
+</div>
+
+---
+
+### 🚀 About Me
+- 🏢 Currently working as **Software Developer** at **TECHOTD Solutions**
+- 💻 Specialized in **Frontend Development** with **React**, **JavaScript**, and modern CSS frameworks
+- 🎨 **UI/UX Designer** with expertise in **Figma** and **Canva**
+- 📈 Delivered **20+ responsive websites** and improved client engagement by **40%**
+- 🤖 Proficient in **AI-powered development tools** and **workflow automation**
+- 🌱 Currently mastering **Supabase** backend integration and **full-stack development**
+
+### 💼 Professional Experience
 
 ### 🛠️ Tech Stack & Tools
 
