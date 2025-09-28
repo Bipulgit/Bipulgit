@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1n3oxl6gnZeIiahv2SL5U53y_qIA7_k8z/view?usp=sharing" alt="Bipul Kumar - Developer & Designer">
+  <img src="https://drive.google.com/uc?export=view&id=1n3oxl6gnZeIiahv2SL5U53y_qIA7_k8z" alt="Bipul Kumar - Developer & Designer">
 </p>
+
+<!-- <p align="center">
+  <img src="https://drive.google.com/file/d/1n3oxl6gnZeIiahv2SL5U53y_qIA7_k8z/view?usp=sharing" alt="Bipul Kumar - Developer & Designer">
+</p> -->
 
 <div align="center">
   <h1>Bipul Kumar</h1>
