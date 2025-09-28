@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/bipulgit/bipulgit/main/assets/header-banner.svg"](https://drive.google.com/file/d/1n3oxl6gnZeIiahv2SL5U53y_qIA7_k8z/view?usp=sharing) alt="Bipul Kumar - Developer & Designer">
+  <img src="https://drive.google.com/file/d/1n3oxl6gnZeIiahv2SL5U53y_qIA7_k8z/view?usp=sharing" alt="Bipul Kumar - Developer & Designer">
 </p>
 
 <div align="center">
